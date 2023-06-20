@@ -68,9 +68,7 @@ m6A modification on plant genomes or to aggregate predictions from different m6A
 
 ----
 
-.. figure:: _images/m6anet_virc_roc_pr.png
-   :align: center
-   :alt: VIRc trained m6Anet single-molecular predictions on curlcake dataset.
+
 
 ----
 
@@ -81,9 +79,6 @@ on the sites predicted to be modified in wild-type samples (probability :math:`\
 
 ----
 
-.. figure:: _images/arabidopsis_hek293t_mixtures.png
-   :align: center
-   :alt: VIRc trained m6Anet single-molecular predictions on HEK293T mixtures dataset.
 
 ----
 
