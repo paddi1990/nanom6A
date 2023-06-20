@@ -5,7 +5,7 @@
 # from the environment for the first two.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
-SPHINXPROJ    = m6anet
+SPHINXPROJ    = nanom6A
 SOURCEDIR     = source
 BUILDDIR      = build
 
