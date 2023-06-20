@@ -17,7 +17,7 @@ sys.setrecursionlimit(1500)
 
 # -- Project information -----------------------------------------------------
 
-project = 'm6anet'
+project = 'nanom6A'
 copyright = '2020, Christopher Hendra'
 author = 'Christopher Hendra'
 
@@ -55,4 +55,4 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 source_suffix = '.rst'
-master_doc = 'source/index'
+master_doc = 'index'
